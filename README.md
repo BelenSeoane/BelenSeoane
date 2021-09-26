@@ -18,5 +18,10 @@ Here are some ideas to get you started:
 
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBelenSeoaneanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="My GitHub Stats" src="https://vercel-rep-1.vercel.app/api?username=BelenSeoane&show_icons=true&hide_border=true" />
+  
+</details>
+  
