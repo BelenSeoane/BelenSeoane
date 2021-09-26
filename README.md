@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- https://vercel-rep-1.vercel.app/
+
 -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBelenSeoaneanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
