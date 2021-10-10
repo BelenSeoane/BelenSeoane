@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <figure><embed src="https://wakatime.com/share/@d100b485-325f-4cb0-b078-5052cceef498/f742f953-f53c-435a-8507-43632232b89c.svg"></embed></figure>
 
 <!--
@@ -23,18 +24,5 @@ Here are some ideas to get you started:
 
 -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
- 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelenSeoane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- 
-  
- 
 
-  
-</details>
   
